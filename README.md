@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFtJS4Tkn3oTE7nuARNyBKgxTLWM5txHPeGaE6tawZL-BCIvgpxWIh-0A4E5GChHec5c&usqp=CAU">
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning in the field of **Informatics**
 
 - 💻 I’m looking to collaborate on **"PelatBahar" Application**
 
