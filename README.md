@@ -7,7 +7,7 @@
 
 - 💻 I’m looking to collaborate on **"PelatBahar" Application**
 
-- 📝 I write Journal on [Penerapan Algoritma Support Vector Machine dan Multi-Layer Perceptron pada Klasifikasi Topik Berita](https://ejournal.undiksha.ac.id/index.php/janapati/article/view/44151)
+- 📝 I write Journal on<br> [Penerapan Algoritma Support Vector Machine dan Multi-Layer Perceptron pada Klasifikasi Topik Berita](https://ejournal.undiksha.ac.id/index.php/janapati/article/view/44151)
 
 - 📫 How to reach me **astipamuji6@gmail.com**
 
