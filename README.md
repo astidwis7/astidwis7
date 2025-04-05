@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End Web Development**
 
--  I’m looking to collaborate on **"PelatBahar" Application**
+- 💻 I’m looking to collaborate on **"PelatBahar" Application**
 
 - 📝 I write Journal on [https://ejournal.undiksha.ac.id/index.php/janapati/article/view/44151](https://ejournal.undiksha.ac.id/index.php/janapati/article/view/44151)
 
