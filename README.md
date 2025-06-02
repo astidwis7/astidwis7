@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asti Dwi Sripamuji</h1>
+<h1 align="center">I'm Asti Dwi Sripamuji</h1>
 <h3 align="center">Raciness</h3>
-
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFtJS4Tkn3oTE7nuARNyBKgxTLWM5txHPeGaE6tawZL-BCIvgpxWIh-0A4E5GChHec5c&usqp=CAU">
 
 - 🌱 I’m currently learning in the field of **Informatics**
 
